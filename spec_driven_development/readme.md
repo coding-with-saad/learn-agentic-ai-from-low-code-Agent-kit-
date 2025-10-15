@@ -40,7 +40,7 @@ The developers who build the next generation of transformative software might no
 Use `specifyplus` or `sp` commands instead of `specify`.
 
 <div align="center">
-    <img src="./media/logo_small.webp"/>
+    <img src="spec-kit-logo.webp"/>
     <h1>🌱 Spec Ki+t</h1>
     <h3><em>Build high-quality software faster.</em></h3>
 </div>
