@@ -6,7 +6,7 @@ Supplementary Learning Material:
 
 **[OpenAI's Vision for an AI-Driven Future Learning Guide](panaversity-openai-vision-guide.md)**
 
-**[Taking a Self-Assessment Quiz](./quiz.md)**
+**[Taking a Self-Assessment Quiz](./Quiz.md)**
 
 
 
