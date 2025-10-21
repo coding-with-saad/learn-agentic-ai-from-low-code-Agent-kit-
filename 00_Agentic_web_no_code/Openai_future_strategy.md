@@ -1,6 +1,6 @@
 # OpenAI's Vision for an AI-Driven Future Learning Guide
 
-**Panaversity's Learning Handbook Series**
+**Watching Future Learning Handbook Series**
 
 **October 2025**
 
