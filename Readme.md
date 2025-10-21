@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://cdn.openai.com/research-covers/introducing-agentkit-banner.jpg" alt="OpenAI AgentKit Banner" width="80%">
+  <img src="Agentkit_banner.png" alt="OpenAI AgentKit Banner" width="80%">
 </p>
 
 <h1 align="center">🚀 OpenAI AgentKit (2025)</h1>
@@ -41,7 +41,7 @@ It works closely with OpenAI’s **Responses API** and **Agent SDK**, giving bot
 - Optional **Reinforcement Fine-Tuning (RFT)** for continuous learning
 
 <p align="center">
-  <img src="https://cdn.openai.com/blog/agentkit-overview.png" alt="AgentKit Overview Diagram" width="75%">
+  <img src="Openai_Agentkit_overview_diagram.png" alt="AgentKit Overview Diagram" width="75%">
 </p>
 
 ---
@@ -96,7 +96,7 @@ Trace grading and versioning allow real-time monitoring and optimization.
 ## 🏗️ Example Architecture
 
 <p align="center">
-  <img src="https://cdn.openai.com/blog/agentkit-architecture.png" alt="AgentKit Architecture Diagram" width="80%">
+  <img src="openai_agentkit_architucture.png" alt="AgentKit Architecture Diagram" width="80%">
 </p>
 
 ---
