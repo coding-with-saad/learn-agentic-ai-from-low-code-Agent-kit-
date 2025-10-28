@@ -461,4 +461,4 @@ A: Yes. That's why humans still make final decisions. An agent helps, but you're
 A: Yes! when chatbot search content from different websites for you, create an essay for you and then upload in google drive is an example of agentic behavriour. They're everywhere!
 
 **Q: Can I build an agent?**
-A: Yes! With programming skills and AI knowledge. This is becoming a real job!
+A: Yes! With programming skills and AI knowledge. 
