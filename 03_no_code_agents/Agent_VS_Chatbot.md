@@ -339,7 +339,7 @@ Can:
 Also can do everything a chatbot does!
 
 ```
-<>
+<img src="ca" alt="code" width="400"/>
 
 ---
 
