@@ -6,7 +6,7 @@ It helps developers build smarter, faster, and more reliable AI-integrated syste
 
 These **7 Core Pillars** form the foundation of AIDD, ensuring that AI tools, environments, and practices work together smoothly.
 
-<img src="pillars.png" alt="pillars" width="400"/>
+![](images/pillars.png)
 
 ---
 
@@ -86,7 +86,7 @@ CI/CD (Continuous Integration/Continuous Deployment) pipelines help automate thi
 | 7. Deployment & Monitoring | Operations | Safe scaling and tracking |
 
 ---
-<img src="code.png" alt="code" width="400"/>
+![](images/code.png)
 
 ## 🧠 Final Thoughts
 AI-Driven Development (AIDD) turns traditional programming into a smart, automated workflow.  
