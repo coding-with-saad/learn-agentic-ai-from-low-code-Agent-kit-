@@ -27,6 +27,8 @@ This README explains the **difference between IDE and CLI tools**, lists **popul
 | **Best For** | Writing, testing, and managing projects. | Deployment, automation, and DevOps tasks. |
 | **Examples** | VS Code, PyCharm, Eclipse, IntelliJ IDEA | AWS CLI, Gemini CLI, GitHub CLI, FFmpeg |
 
+<img src="ide vs cli.png" alt="pillars" width="400"/>
+
 ---
 
 ## 🧠 Top CLI Tools and Their Key Capabilities (2025)
