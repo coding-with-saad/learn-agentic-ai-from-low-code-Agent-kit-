@@ -45,7 +45,8 @@ It represents the **next generation of CLI work**:
 | **Claude Code CLI** | Anthropic | Secure, enterprise-grade AI coding assistant for terminal use. | ~41.3k | Great for safe, enterprise environments. |
 | **Qwen Code CLI** | Alibaba (QwenLM) | CLI for Qwen3-Coder models, supports multilingual coding. | ~15k | Optimized for Asian and multilingual developers. |
 
-> ⭐ *Star counts are approximate (as of November 2025).  
+> ⭐ *Star counts are approximate (as of November 2025).
+<img src="tool.png" alt="pillars" width="400"/>
 
 ---
 
