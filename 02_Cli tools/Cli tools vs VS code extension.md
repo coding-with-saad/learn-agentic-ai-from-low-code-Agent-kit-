@@ -1,4 +1,4 @@
-
+# Extension vs Command line Interface (CLI)
 ---
 
 ## 🧩 1. What Is a VS Code Extension?
